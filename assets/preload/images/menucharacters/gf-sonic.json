@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Week0",
+	"image": "Week0",
+	"position": [
+		592,
+		43
+	],
+	"flipX": false,
+	"scale": 0.8,
+	"confirm_anim": "Week0"
+}
