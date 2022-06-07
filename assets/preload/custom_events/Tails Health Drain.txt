@@ -1,0 +1,4 @@
+Force Tails Health Drain (ONLY ON CHEMICAL PLANT!!)
+
+Value 1: Nada
+Value 2: Nada

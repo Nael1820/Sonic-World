@@ -1,0 +1,4 @@
+Change Scroll Speed (Constant)
+
+Value 1: New Scroll Speed Speed (Must Be Over 1)
+Value 2: Nada
