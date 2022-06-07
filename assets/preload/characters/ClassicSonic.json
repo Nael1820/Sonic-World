@@ -1,0 +1,69 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enter",
+			"indices": [],
+			"name": "Classic Sonic Animation"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle-wait",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5
+			],
+			"name": "Classic Sonic Waiting"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Classic Sonic Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Classic Sonic",
+	"position": [
+		-50,
+		200
+	],
+	"healthicon": "classicsonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		153,
+		255
+	],
+	"camera_position": [
+		100,
+		95	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

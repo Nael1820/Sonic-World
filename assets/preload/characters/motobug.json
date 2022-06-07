@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Moto",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "Classic Sonic An",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Classic Sonic",
+	"position": [
+		-50,
+		200
+	],
+	"healthicon": "motobug",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		33,
+		70
+	],
+	"camera_position": [
+		100,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
