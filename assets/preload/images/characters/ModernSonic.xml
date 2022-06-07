@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ModernSonic.png"><SubTexture name="ModernSonic Idle0000" x="0" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Idle0001" x="434" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Idle0002" x="868" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Idle0003" x="1302" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Idle0004" x="1736" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Idle0005" x="0" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Idle0006" x="434" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Down0000" x="868" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Down0001" x="1302" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Down0002" x="1736" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Down0003" x="0" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Left0000" x="434" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Left0001" x="868" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Left0002" x="1302" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Left0003" x="1736" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Right0000" x="0" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Right0001" x="434" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Right0002" x="868" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Right0003" x="1302" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Up0000" x="1736" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Up0001" x="0" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Up0002" x="434" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Up0003" x="868" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0000" x="1302" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0001" x="1736" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0002" x="0" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0003" x="434" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0004" x="868" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0005" x="1302" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0006" x="1736" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0007" x="0" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0008" x="434" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0009" x="868" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="ModernSonic Boost0010" x="1302" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+</TextureAtlas>

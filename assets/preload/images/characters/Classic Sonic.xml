@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Classic Sonic.png"><SubTexture name="Motobug Idle0000" x="0" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Motobug Idle0001" x="434" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Motobug Idle0002" x="868" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Motobug Idle0003" x="1302" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Motobug Idle0004" x="1736" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Motobug Idle0005" x="2170" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Motobug Idle0006" x="2604" y="0" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0000" x="0" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0001" x="434" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0002" x="868" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0003" x="1302" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0004" x="1736" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0005" x="2170" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0006" x="2604" y="534" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0007" x="0" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0008" x="434" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0009" x="868" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0010" x="1302" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0011" x="1736" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0012" x="2170" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0013" x="2604" y="1068" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0014" x="0" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0015" x="434" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0016" x="868" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0017" x="1302" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0018" x="1736" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0019" x="2170" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0020" x="2604" y="1602" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0021" x="0" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0022" x="434" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0023" x="868" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0024" x="1302" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0025" x="1736" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0026" x="2170" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0027" x="2604" y="2136" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0028" x="0" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0029" x="434" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Animation0030" x="868" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0000" x="1302" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0001" x="1736" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0002" x="2170" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0003" x="2604" y="2670" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0004" x="0" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0005" x="434" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0006" x="868" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0007" x="1302" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Idle0008" x="1736" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Waiting0000" x="2170" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Waiting0001" x="2604" y="3204" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Waiting0002" x="0" y="3738" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Waiting0003" x="434" y="3738" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Waiting0004" x="868" y="3738" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+<SubTexture name="Classic Sonic Waiting0005" x="1302" y="3738" width="434" height="534" frameX="0" frameY="0" frameWidth="434" frameHeight="534" />
+</TextureAtlas>
